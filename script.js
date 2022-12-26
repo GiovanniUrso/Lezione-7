@@ -1,0 +1,1 @@
+// Promise e chiamate AJAX
