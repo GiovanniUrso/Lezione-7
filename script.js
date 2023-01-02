@@ -1,1 +1,1 @@
-// Promise e chiamate AJAX
+// Promise, chiamate AJAX, formato json
